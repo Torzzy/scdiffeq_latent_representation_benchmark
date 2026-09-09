@@ -438,11 +438,9 @@ scanpy: 1.11.5
 
 ## Report
 
-The complete scientific report is available in:
+The complete scientific report is available here: 
+**[report](pdf/scdiffeq_benchmark.pdf)**
 
-```text
-pdf/scdiffeq_benchmark.pdf
-```
 
 
 

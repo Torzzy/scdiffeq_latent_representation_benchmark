@@ -234,13 +234,7 @@ The main evaluation uses the Euclidean cost in the relevant representation space
 
 The OT results are normalized using a baseline comparison between the initial and future observed populations:
 
-$$
-\text{Normalized OT}
-=
-\frac{\text{OT}_{\text{prediction, target}}}
-{\text{OT}_{\text{initial, target}}}
-$$
-
+$$ \text{Normalized OT} = \frac{\text{OT}_{\text{prediction, target}}}{\text{OT}_{\text{initial, target}}} $$
 
 A normalized value of:
 

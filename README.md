@@ -62,7 +62,7 @@ See the full report for the detailed results, statistical analysis and discussio
 
 The complete scientific report provides the detailed methodology, preprocessing pipeline, benchmark configuration, full quantitative results, metric definitions, correlation analysis and discussion.
 
-**[Read the full scientific report](pdf/scdiffeq_benchmark.pdf)**
+**[Read the full scientific report](sources/benchmark.pdf)**
 
 ---
 

@@ -1,5 +1,7 @@
 archives/
-/data/
+data/
 latex/
 results/
 tmp/
+.idea/
+**/__pycache__/

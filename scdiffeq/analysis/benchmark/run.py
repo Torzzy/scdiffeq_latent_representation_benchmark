@@ -55,3 +55,10 @@ def run_benchmark_analysis(paths):
     )
 
     return raw_df
+
+if __name__ == "__main__":
+    from scdiffeq.analysis.analysis_paths import AnalysisPaths
+    paths = AnalysisPaths(
+        root="../../../results",
+    )
+    run_benchmark_analysis(paths)

@@ -96,11 +96,11 @@ def plot_tradeoff(
         )
 
     ax.set_xlabel(
-        "Mean drift / diffusion ratio",
+        "Best drift / diffusion ratio",
     )
 
     ax.set_ylabel(
-        "Relative OT",
+        "Normalized OT",
     )
 
     ax.grid(
